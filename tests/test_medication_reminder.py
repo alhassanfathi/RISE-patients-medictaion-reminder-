@@ -1,4 +1,4 @@
-"""Tests for the medication reminder programme."""
+"""Tests for the medication reminder program."""
 
 from datetime import date, datetime, time
 import unittest

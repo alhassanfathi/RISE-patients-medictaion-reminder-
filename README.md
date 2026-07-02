@@ -1,6 +1,6 @@
-# RISE-patients-medictaion-reminder-
+# RISE Patients Medication Reminder
 
-Python programme that manages a simple medication schedule and reminds patients when to take their medication.
+Python program that manages a simple medication schedule and reminds patients when to take their medication.
 
 ## Features
 
@@ -20,7 +20,7 @@ python -m unittest discover -s tests -v
 
 ## Usage
 
-Run the sample reminder programme:
+Run the sample reminder program:
 
 ```bash
 python -m medication_reminder --patient "Amina" --at "2026-07-02 07:45" --window 90

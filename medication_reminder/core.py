@@ -1,4 +1,4 @@
-"""Core scheduling logic for the medication reminder programme."""
+"""Core scheduling logic for the medication reminder program."""
 
 from __future__ import annotations
 
